@@ -1,0 +1,45 @@
+.button {
+  min-height: 0px !important;
+  /* width: 170px !important; 
+   */
+  border: none !important;
+  background-color: #145369 !important;
+  color: white !important;
+  font-size: 20px !important;
+  /* padding-bottom: 0.2px; */
+  /* position: relative;
+  top: 20px;
+  left:30px; */
+  border-radius: 5px !important;
+  /* padding: 15px  !important; */
+  /* text-align: center !important; */
+  /* display: inline-block !important; */
+}
+
+.TotalFile {
+  color: red;
+  padding-left: 30px !important;
+  padding-top: 20px;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif !important;
+  font-size: 30px !important;
+}
+.fileName {
+  color: blue !important;
+  position: relative;
+  left: 30px;
+  bottom: 19px;
+}
+
+.paper {
+  width: 50%;
+  margin-top: 20px;
+  margin-left: 30px;
+  padding-top: 2%;
+}
+
+.delete {
+  display: flex;
+  float: right;
+  right: 3%;
+}
